@@ -22,6 +22,7 @@ Swagger包含主要的概念:
 - Model: 实体的模型，通常是相互嵌套的，可以作为RESTful接口的输入和输出
 
 Swagger对象的主要属性: 
+
 ![Swagger](https://raw.githubusercontent.com/tlw-ray/swagger-lobby/master/diagram/Swagger.png)
 
 ## 示例
