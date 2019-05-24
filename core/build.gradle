@@ -1,0 +1,10 @@
+dependencies{
+    compile(
+            libraries.'swagger-parser',
+            libraries.'swagger-ui',
+            libraries.'spring-boot-starter-web',
+            libraries.'springfox-swagger-ui',
+            libraries.'springfox-swagger2',
+            libraries.'fastjson',
+    )
+}
